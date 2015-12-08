@@ -1,6 +1,6 @@
 # Exmon
 
-**TODO: Add description**
+Exmon is some sample code that was live coded at the December 2015 NoVA Elixir meetup.
 
 ## Installation
 
