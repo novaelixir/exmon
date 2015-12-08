@@ -1,0 +1,11 @@
+hostname=a.example.com
+version=12
+
+hostname=b.example.com
+version=14
+
+hostname=c.example.com
+version=13
+
+hostname=d.example.com
+version=15
